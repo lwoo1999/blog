@@ -78,7 +78,8 @@ theme: melody
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@github.com:lwoo1999/lwoo1999.github.io.git
 
 kramed:
   gfm: true
