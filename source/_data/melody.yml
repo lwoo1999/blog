@@ -115,7 +115,7 @@ cdn:
 # ---------------
 avatar: 
 
-top_img: true # false or url of img 
+top_img: /images/bkg.jpg # false or url of img 
 
 post_meta:
   date_type: created # created or updated 
@@ -137,8 +137,8 @@ post_copyright:
 
 # Please see doc for more details: https://molunerfinn.com/hexo-theme-melody-doc/#/theme-config?id=auto-excerpt
 auto_excerpt:
-  enable: false
-  length: 150
+  enable: true
+  length: 500
 
 # slide
 # For reveal.js config, see https://github.com/hakimel/reveal.js#configuration
