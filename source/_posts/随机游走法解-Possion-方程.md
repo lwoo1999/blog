@@ -1,6 +1,8 @@
 ---
 title: 随机游走法解 Possion 方程
 date: 2018-12-10 13:58:54
+categories:
+- 计算物理
 tags:
 top_img: ./黄昏.jpg
 ---
